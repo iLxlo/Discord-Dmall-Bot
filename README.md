@@ -7,7 +7,7 @@ SUPPORT: [SUPPORT SERVER](https://discord.gg/TJs7rzjVc6)
 <br/>
 <div align="center">
   <a href="https://github.com/iLxlo/Discord-Dmall-Bot">
-    <img src="https://upload.wikimedia.org/wikipedia/tr/c/c7/Discord_logo_new.svg)" alt="Logo" width="120" height="120">
+    <img src="https://upload.wikimedia.org/wikipedia/tr/c/c7/Discord_logo_new.svg" alt="Logo" width="120" height="120">
   </a>
   
   <h2 align="center">Discord DMALL bot</h3>
