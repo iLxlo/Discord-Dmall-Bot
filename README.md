@@ -1,6 +1,6 @@
 ---------------------------------------
 
-SUPPORT: [SUPPORT SERVER](https://discord.gg/TJs7rzjVc6)
+⭐ Support: [SUPPORT SERVER](https://discord.gg/TJs7rzjVc6)
 
 ---------------------------------------
   
